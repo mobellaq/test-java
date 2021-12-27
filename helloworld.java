@@ -6,5 +6,6 @@ public class helloworld
              // Ausgabe Hello World!
              System.out.println("Hello World!");
              System.out.print("Alhamdulilah");
+             System.out.print("allah akbar");
        }
 }
